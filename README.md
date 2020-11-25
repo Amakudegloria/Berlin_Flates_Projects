@@ -25,15 +25,15 @@ To complete this project, i'll require the following softwares:
 
 • Region: is the Berlin district, where the flat is located
 
-• Condition: is the condition of the flat
+• Condition: the condition of the flat
 
 • Rooms: The number of rooms the flat has
 
 • Rent: Monthly rent for the flat
 
-• Year_Construction: The year in which the house was build
+• Year_Construction: The year in which the house was built
 
-• Space: How many square meters does the flat has?
+• Space: the number of square meters or size of the flat
 
 ## Let us start by asking questions we might want to understand the Immobilien scout data and to make smarter business decisions Questions such as;
 
